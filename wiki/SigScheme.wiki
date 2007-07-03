@@ -15,7 +15,7 @@ It is mainly developed to replace the Scheme interpreter of [http://code.google.
 
 	* [http://uim.googlecode.com/svn/sigscheme-trunk/README Readme]
 
-        * [http://uim.freedesktop.org/doc/sigscheme-0.7.4/spec.html Specifications]
+        * [http://uim.googlecode.com/svn/sigscheme-trunk/doc/spec.txt Specifications]
 
         * [http://uim.googlecode.com/svn/sigscheme-trunk/QALog Quality assurance log]
 
@@ -23,13 +23,9 @@ It is mainly developed to replace the Scheme interpreter of [http://code.google.
 
         * [http://uim.googlecode.com/svn/sigscheme-trunk/COPYING License]
 
-== Supported platforms ==
-
-Please subscribe [http://groups.google.com/group/sigscheme-ja/about this group], and send {{{make-report.sh}}} outputs to sigscheme-ja@googlegroups.com.
-  
 == Subversion repository ==
 
-By the historical reason, SigScheme is being developed in uim's repository.
+By the historical reason, SigScheme is being developed in [http://code.google.com/p/uim/ uim]'s repository.
 
 	* http://uim.googlecode.com/svn/sigscheme-trunk/
 
@@ -38,3 +34,7 @@ The "Source" tab of this project does not contain the source.
 == Mailinglist ==
 
 Any discussions, bug reports and announces about SigScheme is currently hosted by [http://groups.google.com/group/sigscheme-ja/about sigscheme-ja]. English posts are also welcome.
+
+== Supported platforms ==
+
+Please subscribe [http://groups.google.com/group/sigscheme-ja/about this group], and send {{{make-report.sh}}} outputs to sigscheme-ja@googlegroups.com.

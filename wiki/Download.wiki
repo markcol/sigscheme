@@ -5,8 +5,8 @@
 
 Latest stable version is 0.7.5, released at 15 January, 2007.
 
-	* [http://uim.googlecode.com/files/sigscheme-0.7.5.tar.gz sigscheme-0.7.5.tar.gz] (checksum is [http://lists.freedesktop.org/archives/uim/2007-March/001805.html here])
-	* [http://uim.googlecode.com/files/sigscheme-0.7.5.tar.bz2 sigscheme-0.7.5.tar.bz2] (checksum is [http://lists.freedesktop.org/archives/uim/2007-March/001805.html here])
+	* [http://sigscheme.googlecode.com/files/sigscheme-0.7.5.tar.gz sigscheme-0.7.5.tar.gz] (checksum is [http://lists.freedesktop.org/archives/uim/2007-March/001805.html here])
+	* [http://sigscheme.googlecode.com/files/sigscheme-0.7.5.tar.bz2 sigscheme-0.7.5.tar.bz2] (checksum is [http://lists.freedesktop.org/archives/uim/2007-March/001805.html here])
 
 If you are a binary packager, see also [libgcroots].
 

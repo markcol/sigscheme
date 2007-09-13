@@ -1,0 +1,2 @@
+        * 2006/12/29 : SigScheme 0.7.2 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.2/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.2/NEWS news])
+        * 2006/12/25 : SigScheme 0.7.1 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.1/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.1/NEWS news])

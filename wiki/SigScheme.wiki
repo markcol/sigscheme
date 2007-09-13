@@ -5,23 +5,28 @@ It features small footprint (64KB in library form on the 'small' configuration) 
 It is mainly developed to replace the Scheme interpreter of [http://code.google.com/p/uim/ uim].
 
 == News ==
+        * 2007/09/13 : SigScheme 0.8.0 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/NEWS news])
+        * 2007/07/03 : SigScheme project page has been separated from [http://code.google.com/p/uim/ uim project]
         * 2007/03/15 : SigScheme 0.7.5 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.5/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.5/NEWS news])
         * 2007/01/13 : SigScheme 0.7.4 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.4/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.4/NEWS news])
         * 2007/01/07 : SigScheme 0.7.3 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.3/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.3/NEWS news])
-        * 2006/12/29 : SigScheme 0.7.2 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.2/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.2/NEWS news])
-        * 2006/12/25 : SigScheme 0.7.1 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.1/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.1/NEWS news])
+        
+        [OldNews Old news]
+
 
 == Documents ==
 
-	* [http://uim.googlecode.com/svn/sigscheme-trunk/README Readme]
+	* [http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/README Readme]
 
-        * [http://uim.googlecode.com/svn/sigscheme-trunk/doc/spec.txt Specifications]
+        * [http://sigscheme.googlecode.com/svn/doc/spec.html Specifications]
 
-        * [http://uim.googlecode.com/svn/sigscheme-trunk/QALog Quality assurance log]
+        * [http://sigscheme.googlecode.com/svn/doc/index.html Index of other technical documents]
 
-        * [http://uim.googlecode.com/svn/sigscheme-trunk/AUTHORS Authors]
+        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/QALog Quality assurance log]
 
-        * [http://uim.googlecode.com/svn/sigscheme-trunk/COPYING License]
+        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/AUTHORS Authors]
+
+        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/COPYING License]
 
 == Subversion repository ==
 

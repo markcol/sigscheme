@@ -9,9 +9,9 @@ See [http://uim.googlecode.com/svn/libgcroots-trunk/README README] for further i
 
 == Download ==
 
-        * [http://sigscheme.googlecode.com/files/libgcroots-0.1.4.tar.gz libgcroots-0.1.4.tar.gz] (checksum is [http://lists.freedesktop.org/archives/uim/2007-January/001711.html here])
+        * [http://sigscheme.googlecode.com/files/libgcroots-0.2.0.tar.gz libgcroots-0.2.0.tar.gz] (checksum is [http://www.mail-archive.com/sigscheme-ja@googlegroups.com/msg00002.html here])
 
-        * [http://sigscheme.googlecode.com/files/libgcroots-0.1.4.tar.bz2 libgcroots-0.1.4.tar.bz2] (checksum is [http://lists.freedesktop.org/archives/uim/2007-January/001711.html here])
+        * [http://sigscheme.googlecode.com/files/libgcroots-0.2.0.tar.bz2 libgcroots-0.2.0.tar.bz2] (checksum is [http://www.mail-archive.com/sigscheme-ja@googlegroups.com/msg00002.html here])
 
 == Subversion repository ==
 

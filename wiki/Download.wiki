@@ -2,10 +2,10 @@
 
 == Source tarballs ==
 
-Latest stable version is 0.8.0, released at 13 September, 2007.
+Latest stable version is 0.8.1, released at 29 March, 2008.
 
-	* [http://sigscheme.googlecode.com/files/sigscheme-0.8.0.tar.gz sigscheme-0.8.0.tar.gz] (checksum is [http://www.mail-archive.com/sigscheme-ja@googlegroups.com/msg00002.html here])
-	* [http://sigscheme.googlecode.com/files/sigscheme-0.8.0.tar.bz2 sigscheme-0.8.0.tar.bz2] (checksum is [http://www.mail-archive.com/sigscheme-ja@googlegroups.com/msg00002.html here])
+	* [http://sigscheme.googlecode.com/files/sigscheme-0.8.1.tar.gz sigscheme-0.8.1.tar.gz]
+	* [http://sigscheme.googlecode.com/files/sigscheme-0.8.1.tar.bz2 sigscheme-0.8.1.tar.bz2]
 
 If you are a binary packager, see also [libgcroots].
 

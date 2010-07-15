@@ -5,28 +5,28 @@ It features small footprint (64KB in library form on the 'small' configuration) 
 It is mainly developed to replace the Scheme interpreter of [http://code.google.com/p/uim/ uim].
 
 == News ==
+        * 2010/07/15 : SigScheme 0.8.4 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.8.4/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.8.4/NEWS news])
         * 2008/04/08 : SigScheme 0.8.3 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.8.3/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.8.3/NEWS news])
         * 2008/04/08 : SigScheme 0.8.2 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.8.2/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.8.2/NEWS news])
         * 2008/03/29 : SigScheme 0.8.1 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.8.1/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.8.1/NEWS news])
         * 2008/02/20 : SigScheme 0.7.6 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.6/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.6/NEWS news])
-        * 2007/09/13 : SigScheme 0.8.0 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/NEWS news])
         
         [OldNews Old news]
 
 
 == Documents ==
 
-	* [http://uim.googlecode.com/svn/tags/sigscheme-0.8.3/README Readme]
+	* [http://uim.googlecode.com/svn/tags/sigscheme-0.8.4/README Readme]
 
         * [http://sigscheme.googlecode.com/svn/doc/spec.html Specifications]
 
         * [http://sigscheme.googlecode.com/svn/doc/index.html Index of other technical documents]
 
-        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.3/QALog Quality assurance log]
+        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.4/QALog Quality assurance log]
 
-        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.3/AUTHORS Authors]
+        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.4/AUTHORS Authors]
 
-        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.3/COPYING License]
+        * [http://uim.googlecode.com/svn/tags/sigscheme-0.8.4/COPYING License]
 
 == Subversion repository ==
 

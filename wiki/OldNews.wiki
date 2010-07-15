@@ -1,3 +1,4 @@
+        * 2007/09/13 : SigScheme 0.8.0 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.8.0/NEWS news])
         * 2007/07/03 : SigScheme project page has been separated from [http://code.google.com/p/uim/ uim project]
         * 2007/03/15 : SigScheme 0.7.5 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.5/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.5/NEWS news])
         * 2007/01/13 : SigScheme 0.7.4 release ([http://uim.googlecode.com/svn/tags/sigscheme-0.7.4/RELNOTE release note], [http://uim.googlecode.com/svn/tags/sigscheme-0.7.4/NEWS news])

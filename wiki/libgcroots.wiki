@@ -8,9 +8,9 @@ If you are a software packager or developer interesting in GC implementations, s
 See [http://uim.googlecode.com/svn/libgcroots-trunk/README README] for further information.
 
 == Download ==
-        * [http://sigscheme.googlecode.com/files/libgcroots-0.2.1.tar.gz libgcroots-0.2.1.tar.gz] (checksum is [http://groups.google.com/group/uim-en/browse_thread/thread/5876df7e295c03f2 here])
+        * [http://sigscheme.googlecode.com/files/libgcroots-0.2.2.tar.gz libgcroots-0.2.2.tar.gz]
 
-        * [http://sigscheme.googlecode.com/files/libgcroots-0.2.1.tar.bz2 libgcroots-0.2.1.tar.bz2] (checksum is [http://groups.google.com/group/uim-en/browse_thread/thread/5876df7e295c03f2 here])
+        * [http://sigscheme.googlecode.com/files/libgcroots-0.2.2.tar.bz2 libgcroots-0.2.2.tar.bz2] 
 
 == Subversion repository ==
 

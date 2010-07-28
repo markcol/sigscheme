@@ -1,10 +1,10 @@
 #labels Featured
 == Source tarballs ==
 
-Latest stable version is 0.8.4, released at 15 July, 2010.
+Latest stable version is 0.8.5, released at 28 July, 2010.
 
-	* [http://sigscheme.googlecode.com/files/sigscheme-0.8.4.tar.gz sigscheme-0.8.4.tar.gz]
-	* [http://sigscheme.googlecode.com/files/sigscheme-0.8.4.tar.bz2 sigscheme-0.8.4.tar.bz2]
+	* [http://sigscheme.googlecode.com/files/sigscheme-0.8.5.tar.gz sigscheme-0.8.5.tar.gz]
+	* [http://sigscheme.googlecode.com/files/sigscheme-0.8.5.tar.bz2 sigscheme-0.8.5.tar.bz2]
 
 If you are a binary packager, see also [libgcroots].
 
